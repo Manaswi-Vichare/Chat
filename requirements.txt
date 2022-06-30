@@ -111,7 +111,7 @@ tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.0
-tensorflow-cpu @ https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.8.0-cp39-cp39-win_amd64.whl
+tensorflow-cpu 
 tensorflow-estimator==2.8.0
 tensorflow-io-gcs-filesystem==0.25.0
 termcolor==1.1.0
